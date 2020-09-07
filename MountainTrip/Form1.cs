@@ -21,15 +21,15 @@ namespace MountainTrip
         {
             if (checkBoxCort.Checked)
                 MessageBox.Show("you checked the tent", "Output");
-            else if (checkBoxSacDeDormit.Checked)
+            if (checkBoxSacDeDormit.Checked)
                 MessageBox.Show("you checked the sleeping bag", "Output");
-            else if (checkBoxIzopren.Checked)
+            if (checkBoxIzopren.Checked)
                 MessageBox.Show("you checked the isoprene mattress", "Output");
-            else if (checkBoxImbracaminte.Checked)
+            if (checkBoxImbracaminte.Checked)
                 MessageBox.Show("you checked the hiking clothes", "Output");
-            else if (checkBoxBocanci.Checked)
+            if (checkBoxBocanci.Checked)
                 MessageBox.Show("you checked the hiking boots", "Output");
-            else if (checkBoxBeteDrumetie.Checked)
+            if (checkBoxBeteDrumetie.Checked)
                 MessageBox.Show("you checked the hiking sticks");
         }
 
