@@ -14,6 +14,7 @@ namespace MountainTrip
     {
         public Form1()
         {
+            //constructor
             InitializeComponent();
         }
 
