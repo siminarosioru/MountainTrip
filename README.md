@@ -13,4 +13,4 @@ You can see the images for each item in the list.
 When you want to see more pictures of that thing => press the link button, which is for each item.
 
 # Mentor
-![](https://github.com/stefanaberenghia)
+![](stefanaberenghia)
